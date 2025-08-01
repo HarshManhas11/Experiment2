@@ -1,2 +1,6 @@
  I am Harsh Mnahas i study at Cahndigarh University 
+<<<<<<< HEAD
 I am MCA-CCD
+=======
+I am MCA-AIML
+>>>>>>> MCA-AIML
